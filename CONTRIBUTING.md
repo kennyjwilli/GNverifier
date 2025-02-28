@@ -55,12 +55,12 @@ $ cd GNverifier
 # With yarn
 $ yarn link
 $ cd ../my-package
-$ yarn link GNverifier
+$ yarn link gnverifier
 
 # With pnpm
 $ pnpm link --global
 $ cd ../my-package
-$ pnpm link -—global GNverifier
+$ pnpm link -—global gnverifier
 ```
 
 ## Running tests

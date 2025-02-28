@@ -9,8 +9,8 @@
     "esModuleInterop": true,
     "baseUrl": "./",
     "paths": {
-      "GNverifier/*": ["src/*"],
-      "GNverifier": ["src/index.ts"]
+      "gnverifier/*": ["src/*"],
+      "gnverifier": ["src/index.ts"]
     },
     "noEmit": true,
 
