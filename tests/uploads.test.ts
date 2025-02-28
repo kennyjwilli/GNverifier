@@ -1,6 +1,6 @@
 import fs from 'fs';
-import type { ResponseLike } from 'GNverifier/internal/uploads';
-import { toFile } from 'GNverifier/uploads';
+import type { ResponseLike } from 'gnverifier/internal/uploads';
+import { toFile } from 'gnverifier/uploads';
 
 class MyClass {
   name: string = 'foo';

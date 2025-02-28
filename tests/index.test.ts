@@ -1,10 +1,10 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
-import { APIPromise } from 'GNverifier/api-promise';
+import { APIPromise } from 'gnverifier/api-promise';
 
 import util from 'node:util';
-import GNverifier from 'GNverifier';
-import { APIUserAbortError } from 'GNverifier';
+import GNverifier from 'gnverifier';
+import { APIUserAbortError } from 'gnverifier';
 const defaultFetch = fetch;
 
 describe('instantiate client', () => {

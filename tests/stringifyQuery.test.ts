@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
-import { GNverifier } from 'GNverifier';
+import { GNverifier } from 'gnverifier';
 
 const { stringifyQuery } = GNverifier.prototype as any;
 
