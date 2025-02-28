@@ -1,4 +1,4 @@
-import { createPathTagFunction, encodeURIPath } from 'GNverifier/internal/utils/path';
+import { createPathTagFunction, encodeURIPath } from 'gnverifier/internal/utils/path';
 import { inspect } from 'node:util';
 
 describe('path template tag function', () => {

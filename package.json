@@ -1,6 +1,6 @@
 {
-  "name": "GNverifier",
-  "version": "0.0.1-alpha.1",
+  "name": "gnverifier",
+  "version": "0.0.1-alpha.2",
   "description": "The official TypeScript library for the G Nverifier API",
   "author": "G Nverifier <dmozzherin@gmail.com>",
   "types": "dist/index.d.ts",
@@ -47,8 +47,8 @@
     "typescript": "^4.8.2"
   },
   "imports": {
-    "GNverifier": ".",
-    "GNverifier/*": "./src/*"
+    "gnverifier": ".",
+    "gnverifier/*": "./src/*"
   },
   "exports": {
     ".": {
