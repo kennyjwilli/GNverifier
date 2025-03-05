@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.0.1-alpha.4 (2025-03-05)
+
+Full Changelog: [v0.0.1-alpha.3...v0.0.1-alpha.4](https://github.com/kennyjwilli/GNverifier/compare/v0.0.1-alpha.3...v0.0.1-alpha.4)
+
+### Chores
+
+* **docs:** improve docs for withResponse/asResponse ([#18](https://github.com/kennyjwilli/GNverifier/issues/18)) ([4a630b6](https://github.com/kennyjwilli/GNverifier/commit/4a630b69c2543bc79d7b2cf4d5b2f1f6ece6afd8))
+* **types:** improved go to definition on fetchOptions ([#16](https://github.com/kennyjwilli/GNverifier/issues/16)) ([e47b48c](https://github.com/kennyjwilli/GNverifier/commit/e47b48cf7f8166359f3afdaf526aef2197cc9535))
+
 ## 0.0.1-alpha.3 (2025-03-04)
 
 Full Changelog: [v0.0.1-alpha.2...v0.0.1-alpha.3](https://github.com/kennyjwilli/GNverifier/compare/v0.0.1-alpha.2...v0.0.1-alpha.3)
