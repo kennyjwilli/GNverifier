@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.1 (2025-03-11)
+
+Full Changelog: [v0.0.1-alpha.4...v0.1.0-alpha.1](https://github.com/kennyjwilli/GNverifier/compare/v0.0.1-alpha.4...v0.1.0-alpha.1)
+
+### Features
+
+* add SKIP_BREW env var to ./scripts/bootstrap ([#20](https://github.com/kennyjwilli/GNverifier/issues/20)) ([6b56804](https://github.com/kennyjwilli/GNverifier/commit/6b56804c5e85e171213ac4047e8e70e59bf0231c))
+* **client:** accept RFC6838 JSON content types ([#22](https://github.com/kennyjwilli/GNverifier/issues/22)) ([0e8dbaa](https://github.com/kennyjwilli/GNverifier/commit/0e8dbaa95977edd3f4a806c1d419e139bbe66d9c))
+
 ## 0.0.1-alpha.4 (2025-03-05)
 
 Full Changelog: [v0.0.1-alpha.3...v0.0.1-alpha.4](https://github.com/kennyjwilli/GNverifier/compare/v0.0.1-alpha.3...v0.0.1-alpha.4)
