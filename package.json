@@ -1,6 +1,6 @@
 {
   "name": "gnverifier",
-  "version": "0.0.1-alpha.4",
+  "version": "0.1.0-alpha.1",
   "description": "The official TypeScript library for the G Nverifier API",
   "author": "G Nverifier <dmozzherin@gmail.com>",
   "types": "dist/index.d.ts",
