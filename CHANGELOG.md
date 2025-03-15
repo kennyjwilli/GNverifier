@@ -1,5 +1,18 @@
 # Changelog
 
+## 0.1.0-alpha.2 (2025-03-15)
+
+Full Changelog: [v0.1.0-alpha.1...v0.1.0-alpha.2](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.1...v0.1.0-alpha.2)
+
+### Bug Fixes
+
+* **internal:** add mts file + crypto shim types ([#26](https://github.com/kennyjwilli/GNverifier/issues/26)) ([9dd53d6](https://github.com/kennyjwilli/GNverifier/commit/9dd53d6ee3a546e4d826e8cfe8f95cd51a74209a))
+
+
+### Chores
+
+* **internal:** remove extra empty newlines ([#24](https://github.com/kennyjwilli/GNverifier/issues/24)) ([9713840](https://github.com/kennyjwilli/GNverifier/commit/971384040c41524a8d0228992b41b45db2d2142f))
+
 ## 0.1.0-alpha.1 (2025-03-11)
 
 Full Changelog: [v0.0.1-alpha.4...v0.1.0-alpha.1](https://github.com/kennyjwilli/GNverifier/compare/v0.0.1-alpha.4...v0.1.0-alpha.1)
