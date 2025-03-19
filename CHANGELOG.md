@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.3 (2025-03-19)
+
+Full Changelog: [v0.1.0-alpha.2...v0.1.0-alpha.3](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.2...v0.1.0-alpha.3)
+
+### Chores
+
+* **internal:** minor client file refactoring ([#28](https://github.com/kennyjwilli/GNverifier/issues/28)) ([8b69383](https://github.com/kennyjwilli/GNverifier/commit/8b69383ae8d3423ec5c651fe347ae2a204639f25))
+
 ## 0.1.0-alpha.2 (2025-03-15)
 
 Full Changelog: [v0.1.0-alpha.1...v0.1.0-alpha.2](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.1...v0.1.0-alpha.2)
