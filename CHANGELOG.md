@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.4 (2025-03-20)
+
+Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
+
+### Chores
+
+* **exports:** cleaner resource index imports ([#31](https://github.com/kennyjwilli/GNverifier/issues/31)) ([89adb98](https://github.com/kennyjwilli/GNverifier/commit/89adb98528ea67c3ca4afcfeabd272b0aaf1f1d3))
+* **exports:** stop using path fallbacks ([#33](https://github.com/kennyjwilli/GNverifier/issues/33)) ([598fda8](https://github.com/kennyjwilli/GNverifier/commit/598fda89f4f07c78fc69eda3938755f3f35f8d41))
+
 ## 0.1.0-alpha.3 (2025-03-19)
 
 Full Changelog: [v0.1.0-alpha.2...v0.1.0-alpha.3](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.2...v0.1.0-alpha.3)
