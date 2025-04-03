@@ -1,5 +1,19 @@
 # Changelog
 
+## 0.1.0-alpha.5 (2025-04-03)
+
+Full Changelog: [v0.1.0-alpha.4...v0.1.0-alpha.5](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.4...v0.1.0-alpha.5)
+
+### Bug Fixes
+
+* **client:** send `X-Stainless-Timeout` in seconds ([#37](https://github.com/kennyjwilli/GNverifier/issues/37)) ([9a10d82](https://github.com/kennyjwilli/GNverifier/commit/9a10d82c93d1efabfb0cfa6bbcabad3d57550bc5))
+
+
+### Chores
+
+* **client:** move misc public files to new `core/` directory, deprecate old paths ([#35](https://github.com/kennyjwilli/GNverifier/issues/35)) ([0d3249c](https://github.com/kennyjwilli/GNverifier/commit/0d3249c907b9ed6e212061398bdf0b5af2e13588))
+* **internal:** add aliases for Record and Array ([#38](https://github.com/kennyjwilli/GNverifier/issues/38)) ([55303c1](https://github.com/kennyjwilli/GNverifier/commit/55303c1b558860341474028a41019dd1dd595858))
+
 ## 0.1.0-alpha.4 (2025-03-20)
 
 Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
