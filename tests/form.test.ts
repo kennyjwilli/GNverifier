@@ -1,5 +1,5 @@
 import { multipartFormRequestOptions, createForm } from 'gnverifier/internal/uploads';
-import { toFile } from 'gnverifier/uploads';
+import { toFile } from 'gnverifier/core/uploads';
 
 describe('form data validation', () => {
   test('valid values do not error', async () => {

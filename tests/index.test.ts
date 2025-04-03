@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
-import { APIPromise } from 'gnverifier/api-promise';
+import { APIPromise } from 'gnverifier/core/api-promise';
 
 import util from 'node:util';
 import GNverifier from 'gnverifier';

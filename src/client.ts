@@ -13,10 +13,10 @@ import { getPlatformHeaders } from './internal/detect-platform';
 import * as Shims from './internal/shims';
 import * as Opts from './internal/request-options';
 import { VERSION } from './version';
-import * as Errors from './error';
-import * as Uploads from './uploads';
+import * as Errors from './core/error';
+import * as Uploads from './core/uploads';
 import * as API from './resources/index';
-import { APIPromise } from './api-promise';
+import { APIPromise } from './core/api-promise';
 import { type Fetch } from './internal/builtin-types';
 import { HeadersLike, NullableHeaders, buildHeaders } from './internal/headers';
 import { FinalRequestOptions, RequestOptions } from './internal/request-options';
@@ -621,7 +621,7 @@ export class GNverifier {
         Accept: 'application/json',
         'User-Agent': this.getUserAgent(),
         'X-Stainless-Retry-Count': String(retryCount),
-        ...(options.timeout ? { 'X-Stainless-Timeout': String(options.timeout) } : {}),
+        ...(options.timeout ? { 'X-Stainless-Timeout': String(Math.trunc(options.timeout / 1000)) } : {}),
         ...getPlatformHeaders(),
       },
       this.authHeaders(options),
