@@ -1,5 +1,23 @@
 # Changelog
 
+## 0.1.0-alpha.6 (2025-04-11)
+
+Full Changelog: [v0.1.0-alpha.5...v0.1.0-alpha.6](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.5...v0.1.0-alpha.6)
+
+### Bug Fixes
+
+* **api:** improve type resolution when importing as a package ([#40](https://github.com/kennyjwilli/GNverifier/issues/40)) ([71ee2af](https://github.com/kennyjwilli/GNverifier/commit/71ee2af5969ac1e15486d54b22a403ab4abed2f7))
+* **client:** send all configured auth headers ([#43](https://github.com/kennyjwilli/GNverifier/issues/43)) ([17f507f](https://github.com/kennyjwilli/GNverifier/commit/17f507f217d046061504becc7d16b66b6890bbe5))
+* **internal:** fix file uploads in node 18 jest ([1c5cb0c](https://github.com/kennyjwilli/GNverifier/commit/1c5cb0ccab8baf57e070b92a323183a0730bdbe4))
+* **mcp:** remove unused tools.ts ([#42](https://github.com/kennyjwilli/GNverifier/issues/42)) ([62b5707](https://github.com/kennyjwilli/GNverifier/commit/62b57079642b235e78c0aab5326cc6329d5399bf))
+
+
+### Chores
+
+* **internal:** improve node 18 shims ([7df4462](https://github.com/kennyjwilli/GNverifier/commit/7df4462dd4f943a6eda87c4681b980595092a4d1))
+* **internal:** reduce CI branch coverage ([707a8f8](https://github.com/kennyjwilli/GNverifier/commit/707a8f8182842ee48b426a3a698ac968f4dae1ab))
+* **internal:** upload builds and expand CI branch coverage ([d36750b](https://github.com/kennyjwilli/GNverifier/commit/d36750ba0d027cd3020a8e5ed74eb808df52ff54))
+
 ## 0.1.0-alpha.5 (2025-04-03)
 
 Full Changelog: [v0.1.0-alpha.4...v0.1.0-alpha.5](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.4...v0.1.0-alpha.5)
