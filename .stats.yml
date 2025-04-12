@@ -1,4 +1,4 @@
 configured_endpoints: 8
-openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/kwill%2FGNverifier-fa0bbfbd3168f659ba916b1c66cbb5f594f4d47a03dfa66cd944ba6a2c51005c.yml
+openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/kwill%2Fgnverifier-fa0bbfbd3168f659ba916b1c66cbb5f594f4d47a03dfa66cd944ba6a2c51005c.yml
 openapi_spec_hash: b8973e1f49a6659290c092d536df7e1c
 config_hash: c2d010701d4bc7621bbdab9431baa3b2
