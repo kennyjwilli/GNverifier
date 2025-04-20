@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.7 (2025-04-15)
+
+Full Changelog: [v0.1.0-alpha.6...v0.1.0-alpha.7](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.6...v0.1.0-alpha.7)
+
+### Chores
+
+* **client:** minor internal fixes ([c63a6cd](https://github.com/kennyjwilli/GNverifier/commit/c63a6cdd2bbcf1534c88f87639edcfddeec1c15c))
+
 ## 0.1.0-alpha.6 (2025-04-11)
 
 Full Changelog: [v0.1.0-alpha.5...v0.1.0-alpha.6](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.5...v0.1.0-alpha.6)
