@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.8 (2025-04-23)
+
+Full Changelog: [v0.1.0-alpha.7...v0.1.0-alpha.8](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.7...v0.1.0-alpha.8)
+
+### Chores
+
+* **ci:** add timeout thresholds for CI jobs ([cefc6ff](https://github.com/kennyjwilli/GNverifier/commit/cefc6ffa9d926a4bf9f02e054cb79e1a3397964d))
+* **perf:** faster base64 decoding ([bf30da1](https://github.com/kennyjwilli/GNverifier/commit/bf30da1931bc6fcdbbfe6708ca308f22e3372216))
+
 ## 0.1.0-alpha.7 (2025-04-15)
 
 Full Changelog: [v0.1.0-alpha.6...v0.1.0-alpha.7](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.6...v0.1.0-alpha.7)
