@@ -8,6 +8,18 @@ import { path } from '../internal/utils/path';
 export class Verifications extends APIResource {
   /**
    * Verifies an array of strings against known scientific names.
+   *
+   * @example
+   * ```ts
+   * const verificationOutput =
+   *   await client.verifications.create({
+   *     nameStrings: [
+   *       'Pomatomus soltator',
+   *       'Bubo bubo (Linnaeus, 1758)',
+   *       'Isoetes longissimum',
+   *     ],
+   *   });
+   * ```
    */
   create(body: VerificationCreateParams, options?: RequestOptions): APIPromise<VerificationOutput> {
     return this._client.post('/verifications', { body, ...options });
@@ -15,6 +27,14 @@ export class Verifications extends APIResource {
 
   /**
    * Verifies an array of strings separated by '|' character.
+   *
+   * @example
+   * ```ts
+   * const verificationOutput =
+   *   await client.verifications.retrieve(
+   *     'Pomatomus soltator|Bubo bubo|Isoetes longissimum',
+   *   );
+   * ```
    */
   retrieve(
     names: string,

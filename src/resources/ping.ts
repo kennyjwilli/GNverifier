@@ -6,6 +6,12 @@ import { buildHeaders } from '../internal/headers';
 import { RequestOptions } from '../internal/request-options';
 
 export class Ping extends APIResource {
+  /**
+   * @example
+   * ```ts
+   * const response = await client.ping.check();
+   * ```
+   */
   check(options?: RequestOptions): APIPromise<string> {
     return this._client.get('/ping', {
       ...options,

@@ -12,6 +12,13 @@ export class Search extends APIResource {
    * Search allows finding names by a specific epithet, genus, author, year.
    *
    * For the query language description see the `SearchQuery` docs below.
+   *
+   * @example
+   * ```ts
+   * const searchOutput = await client.search.find(
+   *   'n:B. bubo ds:1,2 au:Linn. y:1700-',
+   * );
+   * ```
    */
   find(query: string, options?: RequestOptions): APIPromise<SearchOutput> {
     return this._client.get(path`/search/${query}`, options);
@@ -19,6 +26,11 @@ export class Search extends APIResource {
 
   /**
    * Takes SearchInput object and runs faceted search.
+   *
+   * @example
+   * ```ts
+   * const searchOutput = await client.search.run();
+   * ```
    */
   run(body: SearchRunParams, options?: RequestOptions): APIPromise<SearchOutput> {
     return this._client.post('/search', { body, ...options });
