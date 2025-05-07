@@ -1,5 +1,29 @@
 # Changelog
 
+## 0.1.0-alpha.9 (2025-05-07)
+
+Full Changelog: [v0.1.0-alpha.8...v0.1.0-alpha.9](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.8...v0.1.0-alpha.9)
+
+### Features
+
+* **client:** add withOptions helper ([3f053ea](https://github.com/kennyjwilli/GNverifier/commit/3f053ea3377d6998e774af1250d0da0aa51e847c))
+
+
+### Chores
+
+* **ci:** only use depot for staging repos ([9b7cbc5](https://github.com/kennyjwilli/GNverifier/commit/9b7cbc5762effca1282f4e6de0073d8ef83cf98c))
+* **client:** drop support for EOL node versions ([91e4280](https://github.com/kennyjwilli/GNverifier/commit/91e4280271e4d25983c324f52a2fc080d30e01dc))
+* **internal:** codegen related update ([fb77a2e](https://github.com/kennyjwilli/GNverifier/commit/fb77a2ee42068c5db44ff9386d94535838bba7a6))
+* **internal:** codegen related update ([c24548f](https://github.com/kennyjwilli/GNverifier/commit/c24548f6b952de4fc1f524fbd09589fa386d254f))
+* **internal:** refactor utils ([e9c9b2a](https://github.com/kennyjwilli/GNverifier/commit/e9c9b2a5b854487bf2045e603da57d22f5591424))
+* **internal:** share typescript helpers ([2bca198](https://github.com/kennyjwilli/GNverifier/commit/2bca1980de2a8b51b95dbdec772a689a4a2657aa))
+
+
+### Documentation
+
+* add examples to tsdocs ([0344faa](https://github.com/kennyjwilli/GNverifier/commit/0344faa626181e2345c7a0eecff1d1abdb828ee7))
+* **readme:** fix typo ([7689bdc](https://github.com/kennyjwilli/GNverifier/commit/7689bdcb9e39c9833ecf64b977a8871442735df5))
+
 ## 0.1.0-alpha.8 (2025-04-23)
 
 Full Changelog: [v0.1.0-alpha.7...v0.1.0-alpha.8](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.7...v0.1.0-alpha.8)
