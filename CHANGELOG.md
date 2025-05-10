@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.10 (2025-05-10)
+
+Full Changelog: [v0.1.0-alpha.9...v0.1.0-alpha.10](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.9...v0.1.0-alpha.10)
+
+### Bug Fixes
+
+* **client:** always overwrite when merging headers ([8a45e19](https://github.com/kennyjwilli/GNverifier/commit/8a45e199323782163793ac49d996f400f4258ab7))
+
 ## 0.1.0-alpha.9 (2025-05-07)
 
 Full Changelog: [v0.1.0-alpha.8...v0.1.0-alpha.9](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.8...v0.1.0-alpha.9)
