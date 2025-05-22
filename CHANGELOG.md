@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.11 (2025-05-22)
+
+Full Changelog: [v0.1.0-alpha.10...v0.1.0-alpha.11](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.10...v0.1.0-alpha.11)
+
+### Chores
+
+* **docs:** grammar improvements ([7301435](https://github.com/kennyjwilli/GNverifier/commit/730143571ea610abcf978cf9102585c86a33fac9))
+* **package:** remove engines ([ddb043c](https://github.com/kennyjwilli/GNverifier/commit/ddb043c980c48db821f69a6eb8fd6a55d849dd62))
+
 ## 0.1.0-alpha.10 (2025-05-10)
 
 Full Changelog: [v0.1.0-alpha.9...v0.1.0-alpha.10](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.9...v0.1.0-alpha.10)
