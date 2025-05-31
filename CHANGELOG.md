@@ -1,5 +1,20 @@
 # Changelog
 
+## 0.1.0-alpha.12 (2025-05-31)
+
+Full Changelog: [v0.1.0-alpha.11...v0.1.0-alpha.12](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.11...v0.1.0-alpha.12)
+
+### Bug Fixes
+
+* compat with more runtimes ([df58424](https://github.com/kennyjwilli/GNverifier/commit/df5842421beb7d3e00974e450dced3d79cf1f973))
+
+
+### Chores
+
+* **deps:** bump eslint-plugin-prettier ([f0a3f90](https://github.com/kennyjwilli/GNverifier/commit/f0a3f907a612e94837f23e02108b8958b0569410))
+* improve publish-npm script --latest tag logic ([20096c1](https://github.com/kennyjwilli/GNverifier/commit/20096c11e23b07f60ff523921db3dee6326d08b2))
+* **internal:** update jest config ([49e3257](https://github.com/kennyjwilli/GNverifier/commit/49e325775ce3caa348d3239acf763d5915b7e754))
+
 ## 0.1.0-alpha.11 (2025-05-22)
 
 Full Changelog: [v0.1.0-alpha.10...v0.1.0-alpha.11](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.10...v0.1.0-alpha.11)
