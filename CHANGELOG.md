@@ -1,5 +1,24 @@
 # Changelog
 
+## 0.1.0-alpha.12 (2025-06-07)
+
+Full Changelog: [v0.1.0-alpha.11...v0.1.0-alpha.12](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.11...v0.1.0-alpha.12)
+
+### Bug Fixes
+
+* compat with more runtimes ([df58424](https://github.com/kennyjwilli/GNverifier/commit/df5842421beb7d3e00974e450dced3d79cf1f973))
+
+
+### Chores
+
+* adjust eslint.config.mjs ignore pattern ([74ccc17](https://github.com/kennyjwilli/GNverifier/commit/74ccc176122505b91469b3a0466cca5ac06caa57))
+* avoid type error in certain environments ([300618e](https://github.com/kennyjwilli/GNverifier/commit/300618e3411ef18a58e2544dcd97be1330c13676))
+* **deps:** bump eslint-plugin-prettier ([f0a3f90](https://github.com/kennyjwilli/GNverifier/commit/f0a3f907a612e94837f23e02108b8958b0569410))
+* **docs:** use top-level-await in example snippets ([12ab6db](https://github.com/kennyjwilli/GNverifier/commit/12ab6dbddc38a56333b21fdb384dcc5050712044))
+* improve publish-npm script --latest tag logic ([20096c1](https://github.com/kennyjwilli/GNverifier/commit/20096c11e23b07f60ff523921db3dee6326d08b2))
+* **internal:** fix readablestream types in node 20 ([9401a82](https://github.com/kennyjwilli/GNverifier/commit/9401a82ea7fbc74dd4e7e3d82063677dcfe63563))
+* **internal:** update jest config ([49e3257](https://github.com/kennyjwilli/GNverifier/commit/49e325775ce3caa348d3239acf763d5915b7e754))
+
 ## 0.1.0-alpha.11 (2025-05-22)
 
 Full Changelog: [v0.1.0-alpha.10...v0.1.0-alpha.11](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.10...v0.1.0-alpha.11)
