@@ -1,6 +1,6 @@
 # G Nverifier TypeScript API Library
 
-[![NPM version](https://img.shields.io/npm/v/gnverifier.svg)](https://npmjs.org/package/gnverifier) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/gnverifier)
+[![NPM version](<https://img.shields.io/npm/v/gnverifier.svg?label=npm%20(stable)>)](https://npmjs.org/package/gnverifier) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/gnverifier)
 
 This library provides convenient access to the G Nverifier REST API from server-side TypeScript or JavaScript.
 
