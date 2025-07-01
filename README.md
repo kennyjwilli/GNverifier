@@ -1,6 +1,6 @@
 # G Nverifier TypeScript API Library
 
-[![NPM version](https://img.shields.io/npm/v/gnverifier.svg)](https://npmjs.org/package/gnverifier) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/gnverifier)
+[![NPM version](<https://img.shields.io/npm/v/gnverifier.svg?label=npm%20(stable)>)](https://npmjs.org/package/gnverifier) ![npm bundle size](https://img.shields.io/bundlephobia/minzip/gnverifier)
 
 This library provides convenient access to the G Nverifier REST API from server-side TypeScript or JavaScript.
 
@@ -26,11 +26,7 @@ const client = new GNverifier({
   apiKey: process.env['G_NVERIFIER_API_KEY'], // This is the default and can be omitted
 });
 
-async function main() {
-  const response = await client.ping.check();
-}
-
-main();
+const response = await client.ping.check();
 ```
 
 ### Request & Response types
@@ -45,11 +41,7 @@ const client = new GNverifier({
   apiKey: process.env['G_NVERIFIER_API_KEY'], // This is the default and can be omitted
 });
 
-async function main() {
-  const response: string = await client.ping.check();
-}
-
-main();
+const response: string = await client.ping.check();
 ```
 
 Documentation for each method, request param, and response field are available in docstrings and will appear on hover in most modern editors.
@@ -62,19 +54,15 @@ a subclass of `APIError` will be thrown:
 
 <!-- prettier-ignore -->
 ```ts
-async function main() {
-  const response = await client.ping.check().catch(async (err) => {
-    if (err instanceof GNverifier.APIError) {
-      console.log(err.status); // 400
-      console.log(err.name); // BadRequestError
-      console.log(err.headers); // {server: 'nginx', ...}
-    } else {
-      throw err;
-    }
-  });
-}
-
-main();
+const response = await client.ping.check().catch(async (err) => {
+  if (err instanceof GNverifier.APIError) {
+    console.log(err.status); // 400
+    console.log(err.name); // BadRequestError
+    console.log(err.headers); // {server: 'nginx', ...}
+  } else {
+    throw err;
+  }
+});
 ```
 
 Error codes are as follows:
@@ -232,9 +220,8 @@ parameter. This library doesn't validate at runtime that the request matches the
 send will be sent as-is.
 
 ```ts
-client.foo.create({
-  foo: 'my_param',
-  bar: 12,
+client.ping.check({
+  // ...
   // @ts-expect-error baz is not yet public
   baz: 'undocumented option',
 });
