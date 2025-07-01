@@ -1,5 +1,40 @@
 # Changelog
 
+## 0.1.0-alpha.12 (2025-07-01)
+
+Full Changelog: [v0.1.0-alpha.11...v0.1.0-alpha.12](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.11...v0.1.0-alpha.12)
+
+### Features
+
+* **client:** add support for endpoint-specific base URLs ([1015b25](https://github.com/kennyjwilli/GNverifier/commit/1015b25adb8092f14230eb16864097f1c6df2fc8))
+
+
+### Bug Fixes
+
+* **ci:** release-doctor — report correct token name ([a8466df](https://github.com/kennyjwilli/GNverifier/commit/a8466df16f40969af937790b878d15bafcd24abc))
+* **client:** explicitly copy fetch in withOptions ([32d7b55](https://github.com/kennyjwilli/GNverifier/commit/32d7b55ea01f50c32f4f08a4eb2589c8986bd5a9))
+* **client:** get fetchOptions type more reliably ([e9d0408](https://github.com/kennyjwilli/GNverifier/commit/e9d0408a49e2dacdd399afe734263cb48622153b))
+* compat with more runtimes ([df58424](https://github.com/kennyjwilli/GNverifier/commit/df5842421beb7d3e00974e450dced3d79cf1f973))
+* publish script — handle NPM errors correctly ([19687f1](https://github.com/kennyjwilli/GNverifier/commit/19687f150e99e34dbe1addc7e075746b99791724))
+
+
+### Chores
+
+* adjust eslint.config.mjs ignore pattern ([74ccc17](https://github.com/kennyjwilli/GNverifier/commit/74ccc176122505b91469b3a0466cca5ac06caa57))
+* avoid type error in certain environments ([300618e](https://github.com/kennyjwilli/GNverifier/commit/300618e3411ef18a58e2544dcd97be1330c13676))
+* **ci:** enable for pull requests ([8361062](https://github.com/kennyjwilli/GNverifier/commit/8361062fd3c181ee44ec1b034ae1982bd6720f90))
+* **ci:** only run for pushes and fork pull requests ([5d28976](https://github.com/kennyjwilli/GNverifier/commit/5d28976ecac1f9158d1929c5cc71fcc9eeeb491e))
+* **client:** improve path param validation ([a5eede0](https://github.com/kennyjwilli/GNverifier/commit/a5eede0a8e828a651f9bdbecd10a5bb8cdaeb3c1))
+* **client:** refactor imports ([d1f4b0d](https://github.com/kennyjwilli/GNverifier/commit/d1f4b0d860a238d4e09ec9e30913d66cba3af3e6))
+* **deps:** bump eslint-plugin-prettier ([f0a3f90](https://github.com/kennyjwilli/GNverifier/commit/f0a3f907a612e94837f23e02108b8958b0569410))
+* **docs:** use top-level-await in example snippets ([12ab6db](https://github.com/kennyjwilli/GNverifier/commit/12ab6dbddc38a56333b21fdb384dcc5050712044))
+* improve publish-npm script --latest tag logic ([20096c1](https://github.com/kennyjwilli/GNverifier/commit/20096c11e23b07f60ff523921db3dee6326d08b2))
+* **internal:** add pure annotations, make base APIResource abstract ([611793d](https://github.com/kennyjwilli/GNverifier/commit/611793d27b3333ca1a256b6df9205dd44cd4c7b9))
+* **internal:** fix readablestream types in node 20 ([9401a82](https://github.com/kennyjwilli/GNverifier/commit/9401a82ea7fbc74dd4e7e3d82063677dcfe63563))
+* **internal:** update jest config ([49e3257](https://github.com/kennyjwilli/GNverifier/commit/49e325775ce3caa348d3239acf763d5915b7e754))
+* **readme:** update badges ([8e44b1f](https://github.com/kennyjwilli/GNverifier/commit/8e44b1f907be3716c3d147f3bd887267b8469dc5))
+* **readme:** use better example snippet for undocumented params ([60ab81f](https://github.com/kennyjwilli/GNverifier/commit/60ab81f101c5eb8fe8a42049ab3240454333a131))
+
 ## 0.1.0-alpha.11 (2025-05-22)
 
 Full Changelog: [v0.1.0-alpha.10...v0.1.0-alpha.11](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.10...v0.1.0-alpha.11)
