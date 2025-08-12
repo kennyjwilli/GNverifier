@@ -8,7 +8,7 @@ const client = new GNverifier({
 });
 
 describe('resource search', () => {
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('find', async () => {
     const responsePromise = client.search.find('n:B. bubo ds:1,2 au:Linn. y:1700-');
     const rawResponse = await responsePromise.asResponse();
@@ -20,7 +20,7 @@ describe('resource search', () => {
     expect(dataAndResponse.response).toBe(rawResponse);
   });
 
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('run', async () => {
     const responsePromise = client.search.run({});
     const rawResponse = await responsePromise.asResponse();
