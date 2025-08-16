@@ -737,11 +737,13 @@ export class GNverifier {
   verifications: API.Verifications = new API.Verifications(this);
   search: API.Search = new API.Search(this);
 }
+
 GNverifier.Ping = Ping;
 GNverifier.Version = Version;
 GNverifier.DataSources = DataSources;
 GNverifier.Verifications = Verifications;
 GNverifier.Search = Search;
+
 export declare namespace GNverifier {
   export type RequestOptions = Opts.RequestOptions;
 
