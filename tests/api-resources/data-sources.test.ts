@@ -8,7 +8,7 @@ const client = new GNverifier({
 });
 
 describe('resource dataSources', () => {
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('retrieve', async () => {
     const responsePromise = client.dataSources.retrieve(1);
     const rawResponse = await responsePromise.asResponse();
@@ -20,7 +20,7 @@ describe('resource dataSources', () => {
     expect(dataAndResponse.response).toBe(rawResponse);
   });
 
-  // skipped: tests are disabled for the time being
+  // Prism tests are disabled
   test.skip('list', async () => {
     const responsePromise = client.dataSources.list();
     const rawResponse = await responsePromise.asResponse();
