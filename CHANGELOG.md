@@ -1,5 +1,27 @@
 # Changelog
 
+## 0.1.0-alpha.13 (2025-08-20)
+
+Full Changelog: [v0.1.0-alpha.12...v0.1.0-alpha.13](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.12...v0.1.0-alpha.13)
+
+### Features
+
+* **mcp:** add code execution tool ([5e816dd](https://github.com/kennyjwilli/GNverifier/commit/5e816dd487785082f4d4d3792a8d996add4c5bb5))
+
+
+### Chores
+
+* add docs to RequestOptions type ([4861fad](https://github.com/kennyjwilli/GNverifier/commit/4861fada3db9f7e428bfad14c9825022aec5b154))
+* **deps:** update dependency @types/node to v20.17.58 ([e25cb09](https://github.com/kennyjwilli/GNverifier/commit/e25cb09f9640d180d85d5f137552449a61cee4f0))
+* **internal:** codegen related update ([2a726d9](https://github.com/kennyjwilli/GNverifier/commit/2a726d92ec02505cbaab28dc67821e4bb26f9a97))
+* **internal:** formatting change ([faba3af](https://github.com/kennyjwilli/GNverifier/commit/faba3af3a6e808e8f990ec6e5da8836a4a110f57))
+* **internal:** move publish config ([2299eea](https://github.com/kennyjwilli/GNverifier/commit/2299eea3c197df8384643b62e721c8e988b00bae))
+* **internal:** remove redundant imports config ([5d52014](https://github.com/kennyjwilli/GNverifier/commit/5d52014cd92ceb5fa1717f0565ffd49c19f98203))
+* **internal:** update comment in script ([74f27db](https://github.com/kennyjwilli/GNverifier/commit/74f27db3a0b7c214c01cdcb19f483807b22274b6))
+* make some internal functions async ([a8c59d3](https://github.com/kennyjwilli/GNverifier/commit/a8c59d3672ce6ec2744e88b0fe8db88aef768688))
+* **ts:** reorder package.json imports ([22fd18a](https://github.com/kennyjwilli/GNverifier/commit/22fd18a6c7564807a65b9e9f58a86949b964bf80))
+* update @stainless-api/prism-cli to v5.15.0 ([06b8c4d](https://github.com/kennyjwilli/GNverifier/commit/06b8c4dc7a133ba2ecf6bd50e8ad216178c99205))
+
 ## 0.1.0-alpha.12 (2025-07-01)
 
 Full Changelog: [v0.1.0-alpha.11...v0.1.0-alpha.12](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.11...v0.1.0-alpha.12)
