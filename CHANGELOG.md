@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.0-alpha.14 (2025-08-23)
+
+Full Changelog: [v0.1.0-alpha.13...v0.1.0-alpha.14](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.13...v0.1.0-alpha.14)
+
+### Chores
+
+* add package to package.json ([1667bdf](https://github.com/kennyjwilli/GNverifier/commit/1667bdf6cae7c184409f1642e4dbbf6966708ebf))
+* **client:** qualify global Blob ([bb67282](https://github.com/kennyjwilli/GNverifier/commit/bb67282b5545eb62935e1eac52db1e15e4ae3fe2))
+* update CI script ([1d3dfdd](https://github.com/kennyjwilli/GNverifier/commit/1d3dfdd05f0027a35598633745b9a012bbaa6a3d))
+
 ## 0.1.0-alpha.13 (2025-08-20)
 
 Full Changelog: [v0.1.0-alpha.12...v0.1.0-alpha.13](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.12...v0.1.0-alpha.13)
