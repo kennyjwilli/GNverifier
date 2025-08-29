@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.15 (2025-08-29)
+
+Full Changelog: [v0.1.0-alpha.14...v0.1.0-alpha.15](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.14...v0.1.0-alpha.15)
+
+### Chores
+
+* **internal:** update global Error reference ([c63f4d9](https://github.com/kennyjwilli/GNverifier/commit/c63f4d90884e413a8a6a3552d2fdecce30fe61a9))
+
 ## 0.1.0-alpha.14 (2025-08-23)
 
 Full Changelog: [v0.1.0-alpha.13...v0.1.0-alpha.14](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.13...v0.1.0-alpha.14)
