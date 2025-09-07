@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.16 (2025-09-06)
+
+Full Changelog: [v0.1.0-alpha.15...v0.1.0-alpha.16](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.15...v0.1.0-alpha.16)
+
+### Chores
+
+* ci build action ([a21436e](https://github.com/kennyjwilli/GNverifier/commit/a21436e0870e8cd13b91280eac61e0e721ee2c86))
+
 ## 0.1.0-alpha.15 (2025-08-29)
 
 Full Changelog: [v0.1.0-alpha.14...v0.1.0-alpha.15](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.14...v0.1.0-alpha.15)
