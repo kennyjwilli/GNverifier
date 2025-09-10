@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.17 (2025-09-09)
+
+Full Changelog: [v0.1.0-alpha.16...v0.1.0-alpha.17](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.16...v0.1.0-alpha.17)
+
+### Bug Fixes
+
+* coerce nullable values to undefined ([c63d9e5](https://github.com/kennyjwilli/GNverifier/commit/c63d9e5b575e10feed7768e0c87c15e0204cb308))
+
 ## 0.1.0-alpha.16 (2025-09-06)
 
 Full Changelog: [v0.1.0-alpha.15...v0.1.0-alpha.16](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.15...v0.1.0-alpha.16)
