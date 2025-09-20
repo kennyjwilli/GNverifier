@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.18 (2025-09-20)
+
+Full Changelog: [v0.1.0-alpha.17...v0.1.0-alpha.18](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.17...v0.1.0-alpha.18)
+
+### Chores
+
+* do not install brew dependencies in ./scripts/bootstrap by default ([5248153](https://github.com/kennyjwilli/GNverifier/commit/524815317cd741d2bef68c8a0d4e18bc3aac70a4))
+
 ## 0.1.0-alpha.17 (2025-09-09)
 
 Full Changelog: [v0.1.0-alpha.16...v0.1.0-alpha.17](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.16...v0.1.0-alpha.17)
