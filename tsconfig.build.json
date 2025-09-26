@@ -5,8 +5,8 @@
   "compilerOptions": {
     "rootDir": "./dist/src",
     "paths": {
-      "gnverifier/*": ["dist/src/*"],
-      "gnverifier": ["dist/src/index.ts"]
+      "gnverifier/*": ["./dist/src/*"],
+      "gnverifier": ["./dist/src/index.ts"]
     },
     "noEmit": false,
     "declaration": true,
