@@ -1,5 +1,21 @@
 # Changelog
 
+## 0.1.0-alpha.19 (2025-09-27)
+
+Full Changelog: [v0.1.0-alpha.18...v0.1.0-alpha.19](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.18...v0.1.0-alpha.19)
+
+### Performance Improvements
+
+* faster formatting ([4a6a7e0](https://github.com/kennyjwilli/GNverifier/commit/4a6a7e042b64aeb161c59f1251d7f585b7fa7c5d))
+
+
+### Chores
+
+* **internal:** codegen related update ([6690a0c](https://github.com/kennyjwilli/GNverifier/commit/6690a0c2ad20f24b6f547ad5f00c697c67ed53b1))
+* **internal:** fix incremental formatting in some cases ([11da2d0](https://github.com/kennyjwilli/GNverifier/commit/11da2d0e5cfc471d273e3c6c0642f72c709ade96))
+* **internal:** ignore .eslintcache ([1c49bce](https://github.com/kennyjwilli/GNverifier/commit/1c49bcebed81a2f58bcb8759cb70f00ac7620db0))
+* **internal:** remove deprecated `compilerOptions.baseUrl` from tsconfig.json ([f301beb](https://github.com/kennyjwilli/GNverifier/commit/f301beb4069f7e79d84ce7830097a4ff7c9229a0))
+
 ## 0.1.0-alpha.18 (2025-09-20)
 
 Full Changelog: [v0.1.0-alpha.17...v0.1.0-alpha.18](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.17...v0.1.0-alpha.18)
