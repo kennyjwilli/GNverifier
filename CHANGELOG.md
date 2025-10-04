@@ -1,5 +1,14 @@
 # Changelog
 
+## 0.1.0-alpha.20 (2025-10-04)
+
+Full Changelog: [v0.1.0-alpha.19...v0.1.0-alpha.20](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.19...v0.1.0-alpha.20)
+
+### Chores
+
+* **internal:** remove .eslintcache ([225524f](https://github.com/kennyjwilli/GNverifier/commit/225524fbbc08acdeb85c3145839f8cf02adfe0ff))
+* **jsdoc:** fix [@link](https://github.com/link) annotations to refer only to parts of the package‘s public interface ([61161fb](https://github.com/kennyjwilli/GNverifier/commit/61161fb10f0b0279147ad7aaebcd1080abb147c6))
+
 ## 0.1.0-alpha.19 (2025-09-27)
 
 Full Changelog: [v0.1.0-alpha.18...v0.1.0-alpha.19](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.18...v0.1.0-alpha.19)
