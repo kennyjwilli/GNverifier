@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.1.0-alpha.21 (2025-12-03)
+
+Full Changelog: [v0.1.0-alpha.20...v0.1.0-alpha.21](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.20...v0.1.0-alpha.21)
+
+### Chores
+
+* **client:** fix logger property type ([837f4b3](https://github.com/kennyjwilli/GNverifier/commit/837f4b3d6f533a07c82e07f4eb605cc32406dd26))
+* **internal:** upgrade eslint ([7e6aabf](https://github.com/kennyjwilli/GNverifier/commit/7e6aabfcac37e3d84e64ee15b86bb0961dc279ef))
+* **internal:** use npm pack for build uploads ([4fe8ea4](https://github.com/kennyjwilli/GNverifier/commit/4fe8ea448b2a8f9b82e0b9810afa0f8517a24277))
+
 ## 0.1.0-alpha.20 (2025-10-04)
 
 Full Changelog: [v0.1.0-alpha.19...v0.1.0-alpha.20](https://github.com/kennyjwilli/GNverifier/compare/v0.1.0-alpha.19...v0.1.0-alpha.20)
